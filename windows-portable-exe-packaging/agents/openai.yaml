@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Portable EXE Packaging"
+  short_description: "Build and troubleshoot portable Windows EXEs"
+  default_prompt: "Use $windows-portable-exe-packaging to package this Python desktop app for Windows, diagnose cross-machine failures, and verify whether the result is truly one-file or requires external runtimes."
